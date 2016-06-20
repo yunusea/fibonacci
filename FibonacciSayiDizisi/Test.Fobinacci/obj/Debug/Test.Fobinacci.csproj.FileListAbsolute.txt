@@ -1,0 +1,8 @@
+C:\Users\YunusAkbulut\Documents\Visual Studio 2015\Projects\FibonacciSayiDizisi\Test.Fobinacci\obj\Debug\Test.Fobinacci.csprojResolveAssemblyReference.cache
+C:\Users\YunusAkbulut\Documents\Visual Studio 2015\Projects\FibonacciSayiDizisi\Test.Fobinacci\bin\Debug\Test.Fobinacci.dll
+C:\Users\YunusAkbulut\Documents\Visual Studio 2015\Projects\FibonacciSayiDizisi\Test.Fobinacci\bin\Debug\Test.Fobinacci.pdb
+C:\Users\YunusAkbulut\Documents\Visual Studio 2015\Projects\FibonacciSayiDizisi\Test.Fobinacci\bin\Debug\Business.dll
+C:\Users\YunusAkbulut\Documents\Visual Studio 2015\Projects\FibonacciSayiDizisi\Test.Fobinacci\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\YunusAkbulut\Documents\Visual Studio 2015\Projects\FibonacciSayiDizisi\Test.Fobinacci\bin\Debug\Business.pdb
+C:\Users\YunusAkbulut\Documents\Visual Studio 2015\Projects\FibonacciSayiDizisi\Test.Fobinacci\obj\Debug\Test.Fobinacci.dll
+C:\Users\YunusAkbulut\Documents\Visual Studio 2015\Projects\FibonacciSayiDizisi\Test.Fobinacci\obj\Debug\Test.Fobinacci.pdb

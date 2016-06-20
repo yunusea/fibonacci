@@ -6,3 +6,6 @@ c:\users\yunusakbulut\documents\visual studio 2015\Projects\FibonacciSayiDizisi\
 c:\users\yunusakbulut\documents\visual studio 2015\Projects\FibonacciSayiDizisi\Fibonacci\obj\Debug\Console.Fibonacci.csprojResolveAssemblyReference.cache
 c:\users\yunusakbulut\documents\visual studio 2015\Projects\FibonacciSayiDizisi\Fibonacci\obj\Debug\Fibonacci.exe
 c:\users\yunusakbulut\documents\visual studio 2015\Projects\FibonacciSayiDizisi\Fibonacci\obj\Debug\Fibonacci.pdb
+E:\GIT\fibonacci\FibonacciSayiDizisi\Fibonacci\bin\Debug\Fibonacci.exe.config
+E:\GIT\fibonacci\FibonacciSayiDizisi\Fibonacci\obj\Debug\Fibonacci.exe
+E:\GIT\fibonacci\FibonacciSayiDizisi\Fibonacci\obj\Debug\Fibonacci.pdb

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business.Fibonacci", "Busin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC.Fibonacci", "MVC.Fibonacci\MVC.Fibonacci.csproj", "{9DAC6F82-8283-497A-8E72-A38106272A8B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Fobinacci", "Test.Fobinacci\Test.Fobinacci.csproj", "{DE437997-C073-4717-B949-194A6AF3983F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9DAC6F82-8283-497A-8E72-A38106272A8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DAC6F82-8283-497A-8E72-A38106272A8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DAC6F82-8283-497A-8E72-A38106272A8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE437997-C073-4717-B949-194A6AF3983F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE437997-C073-4717-B949-194A6AF3983F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE437997-C073-4717-B949-194A6AF3983F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE437997-C073-4717-B949-194A6AF3983F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
