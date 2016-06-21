@@ -1,4 +1,5 @@
 ﻿using DataLayer.FibonacciNumbers.DataContext;
+using DataLayer.FibonacciNumbers.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,21 +10,42 @@ namespace Business.FibonacciNumbers
 {
     public class FibonacciNumberArray
     {
+        private static FibonacciNumberDataContext db = new FibonacciNumberDataContext();
         public static int GetFibonacciNumbersByIndex(int Index)
         {
-            int[] Numbers = new int[Index + 1];
-            int Number = 1;
-            int OldNumber = 0;
-            int NewNumber = 1;
-            for (int i = 0; i <= Index; i++)
+            var IndexDbControl = db.Query.Where(x => x.Index == Index).FirstOrDefault();
+
+            if (IndexDbControl == null)
             {
-                Numbers[i] = Number;
-                Number = OldNumber + NewNumber;
-                OldNumber = NewNumber;
-                NewNumber = Number;
+                int[] Numbers = new int[Index + 1];
+                int Number = 1;
+                int OldNumber = 0;
+                int NewNumber = 1;
+                for (int i = 0; i <= Index; i++)
+                {
+                    Numbers[i] = Number;
+                    Number = OldNumber + NewNumber;
+                    OldNumber = NewNumber;
+                    NewNumber = Number;
+                }
+                int IndexInNumber = Numbers[Index];
+
+                var entity = new Query()
+                {
+                    Index = Index,
+                    ResultNumber = IndexInNumber,
+                    Date = DateTime.Now
+                };
+
+                db.Query.Add(entity);
+                db.SaveChanges();
+
+                return IndexInNumber;
             }
-            int IndexInNumber = Numbers[Index];
-            return IndexInNumber;
+            else
+            {
+                return IndexDbControl.ResultNumber;
+            }
         }
     }
 }

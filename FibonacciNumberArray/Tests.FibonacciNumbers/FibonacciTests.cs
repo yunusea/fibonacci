@@ -1,6 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Business.FibonacciNumbers;
+using DataLayer.FibonacciNumbers.DataContext;
 
 namespace Tests.FibonacciNumbers
 {
@@ -13,7 +14,7 @@ namespace Tests.FibonacciNumbers
             var ResultNumber = FibonacciNumberArray.GetFibonacciNumbersByIndex(2);
             Assert.AreEqual(2, ResultNumber);
         }
-
+        
         [TestMethod]
         public void Test_Fibonacci_Input_5_Output_8()
         {
