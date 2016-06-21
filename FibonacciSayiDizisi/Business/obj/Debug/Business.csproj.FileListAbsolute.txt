@@ -1,5 +1,0 @@
-c:\users\yunusakbulut\documents\visual studio 2015\Projects\FibonacciSayiDizisi\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
-c:\users\yunusakbulut\documents\visual studio 2015\Projects\FibonacciSayiDizisi\Business\bin\Debug\Business.dll
-c:\users\yunusakbulut\documents\visual studio 2015\Projects\FibonacciSayiDizisi\Business\bin\Debug\Business.pdb
-c:\users\yunusakbulut\documents\visual studio 2015\Projects\FibonacciSayiDizisi\Business\obj\Debug\Business.dll
-c:\users\yunusakbulut\documents\visual studio 2015\Projects\FibonacciSayiDizisi\Business\obj\Debug\Business.pdb

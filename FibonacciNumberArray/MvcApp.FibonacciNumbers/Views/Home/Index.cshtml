@@ -1,0 +1,27 @@
+﻿@model MvcApp.FibonacciNumbers.Models.HomeViewModel
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm("Index", "Home", FormMethod.Post))
+        {
+            @Html.LabelFor(model => model.IndexNumber)
+            @Html.TextBoxFor(model => model.IndexNumber)
+            <br />
+
+            <input type="submit" value="Gönder" />
+        }
+        <br />
+        <br />
+        @Html.LabelFor(model => model.ResultNumber)
+        @Html.DisplayFor(model => Model.ResultNumber)
+    </div>
+</body>
+</html>

@@ -1,8 +1,0 @@
-c:\users\yunusakbulut\documents\visual studio 2015\Projects\FibonacciSayiDizisi\Fibonacci\bin\Debug\Fibonacci.exe.config
-c:\users\yunusakbulut\documents\visual studio 2015\Projects\FibonacciSayiDizisi\Fibonacci\bin\Debug\Fibonacci.exe
-c:\users\yunusakbulut\documents\visual studio 2015\Projects\FibonacciSayiDizisi\Fibonacci\bin\Debug\Fibonacci.pdb
-c:\users\yunusakbulut\documents\visual studio 2015\Projects\FibonacciSayiDizisi\Fibonacci\obj\Debug\Fibonacci.csprojResolveAssemblyReference.cache
-c:\users\yunusakbulut\documents\visual studio 2015\Projects\FibonacciSayiDizisi\Fibonacci\obj\Debug\Fibonacci.exe
-c:\users\yunusakbulut\documents\visual studio 2015\Projects\FibonacciSayiDizisi\Fibonacci\obj\Debug\Fibonacci.pdb
-c:\users\yunusakbulut\documents\visual studio 2015\Projects\FibonacciSayiDizisi\Fibonacci\bin\Debug\Business.dll
-c:\users\yunusakbulut\documents\visual studio 2015\Projects\FibonacciSayiDizisi\Fibonacci\bin\Debug\Business.pdb
