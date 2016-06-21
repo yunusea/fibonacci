@@ -1,7 +1,0 @@
-E:\GIT\fibonacci\FibonacciNumberArray\Tests.FibonacciNumbers\bin\Debug\Tests.FibonacciNumbers.dll
-E:\GIT\fibonacci\FibonacciNumberArray\Tests.FibonacciNumbers\bin\Debug\Tests.FibonacciNumbers.pdb
-E:\GIT\fibonacci\FibonacciNumberArray\Tests.FibonacciNumbers\obj\Debug\Tests.FibonacciNumbers.csprojResolveAssemblyReference.cache
-E:\GIT\fibonacci\FibonacciNumberArray\Tests.FibonacciNumbers\obj\Debug\Tests.FibonacciNumbers.dll
-E:\GIT\fibonacci\FibonacciNumberArray\Tests.FibonacciNumbers\obj\Debug\Tests.FibonacciNumbers.pdb
-E:\GIT\fibonacci\FibonacciNumberArray\Tests.FibonacciNumbers\bin\Debug\Business.FibonacciNumbers.dll
-E:\GIT\fibonacci\FibonacciNumberArray\Tests.FibonacciNumbers\bin\Debug\Business.FibonacciNumbers.pdb

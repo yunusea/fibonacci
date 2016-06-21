@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.FibonacciNumbers
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApp.FibonacciNumbers", "MvcApp.FibonacciNumbers\MvcApp.FibonacciNumbers.csproj", "{A84634FD-485E-44B0-97EA-C37B99AB2F53}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer.FibonacciNumbers", "DataLayer.FibonacciNumbers\DataLayer.FibonacciNumbers.csproj", "{8E01A092-00DF-4B49-81A6-39BCAA06A6DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{A84634FD-485E-44B0-97EA-C37B99AB2F53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A84634FD-485E-44B0-97EA-C37B99AB2F53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A84634FD-485E-44B0-97EA-C37B99AB2F53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E01A092-00DF-4B49-81A6-39BCAA06A6DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E01A092-00DF-4B49-81A6-39BCAA06A6DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E01A092-00DF-4B49-81A6-39BCAA06A6DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E01A092-00DF-4B49-81A6-39BCAA06A6DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
