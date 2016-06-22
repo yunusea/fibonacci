@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApp.FibonacciNumbers", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer.FibonacciNumbers", "DataLayer.FibonacciNumbers\DataLayer.FibonacciNumbers.csproj", "{8E01A092-00DF-4B49-81A6-39BCAA06A6DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contracts.FibonacciNumbers", "Contracts.FibonacciNumbers\Contracts.FibonacciNumbers.csproj", "{ADAD6324-9E8E-4AC6-9A50-FCE524024D10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository.FibonacciNumbers", "Repository.FibonacciNumbers\Repository.FibonacciNumbers.csproj", "{8D6CAFD4-689A-469C-B9BF-AB01FAF4BE27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{8E01A092-00DF-4B49-81A6-39BCAA06A6DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E01A092-00DF-4B49-81A6-39BCAA06A6DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E01A092-00DF-4B49-81A6-39BCAA06A6DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADAD6324-9E8E-4AC6-9A50-FCE524024D10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADAD6324-9E8E-4AC6-9A50-FCE524024D10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADAD6324-9E8E-4AC6-9A50-FCE524024D10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADAD6324-9E8E-4AC6-9A50-FCE524024D10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D6CAFD4-689A-469C-B9BF-AB01FAF4BE27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6CAFD4-689A-469C-B9BF-AB01FAF4BE27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D6CAFD4-689A-469C-B9BF-AB01FAF4BE27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D6CAFD4-689A-469C-B9BF-AB01FAF4BE27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

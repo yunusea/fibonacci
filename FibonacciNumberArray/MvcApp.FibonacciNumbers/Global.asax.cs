@@ -13,6 +13,10 @@ namespace MvcApp.FibonacciNumbers
         {
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
+
+
+            ControllerBuilder.Current.SetControllerFactory(new NinjectControllerFactory());
+
         }
     }
 }

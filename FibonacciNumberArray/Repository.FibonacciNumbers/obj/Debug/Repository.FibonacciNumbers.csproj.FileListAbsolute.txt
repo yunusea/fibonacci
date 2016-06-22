@@ -1,0 +1,14 @@
+E:\GIT\fibonacci\FibonacciNumberArray\Repository.FibonacciNumbers\bin\Debug\Repository.FibonacciNumbers.dll.config
+E:\GIT\fibonacci\FibonacciNumberArray\Repository.FibonacciNumbers\bin\Debug\Repository.FibonacciNumbers.dll
+E:\GIT\fibonacci\FibonacciNumberArray\Repository.FibonacciNumbers\bin\Debug\Repository.FibonacciNumbers.pdb
+E:\GIT\fibonacci\FibonacciNumberArray\Repository.FibonacciNumbers\bin\Debug\Contracts.FibonacciNumbers.dll
+E:\GIT\fibonacci\FibonacciNumberArray\Repository.FibonacciNumbers\bin\Debug\DataLayer.FibonacciNumbers.dll
+E:\GIT\fibonacci\FibonacciNumberArray\Repository.FibonacciNumbers\bin\Debug\EntityFramework.dll
+E:\GIT\fibonacci\FibonacciNumberArray\Repository.FibonacciNumbers\bin\Debug\EntityFramework.SqlServer.dll
+E:\GIT\fibonacci\FibonacciNumberArray\Repository.FibonacciNumbers\bin\Debug\Contracts.FibonacciNumbers.pdb
+E:\GIT\fibonacci\FibonacciNumberArray\Repository.FibonacciNumbers\bin\Debug\DataLayer.FibonacciNumbers.pdb
+E:\GIT\fibonacci\FibonacciNumberArray\Repository.FibonacciNumbers\bin\Debug\EntityFramework.xml
+E:\GIT\fibonacci\FibonacciNumberArray\Repository.FibonacciNumbers\bin\Debug\EntityFramework.SqlServer.xml
+E:\GIT\fibonacci\FibonacciNumberArray\Repository.FibonacciNumbers\obj\Debug\Repository.FibonacciNumbers.csprojResolveAssemblyReference.cache
+E:\GIT\fibonacci\FibonacciNumberArray\Repository.FibonacciNumbers\obj\Debug\Repository.FibonacciNumbers.dll
+E:\GIT\fibonacci\FibonacciNumberArray\Repository.FibonacciNumbers\obj\Debug\Repository.FibonacciNumbers.pdb

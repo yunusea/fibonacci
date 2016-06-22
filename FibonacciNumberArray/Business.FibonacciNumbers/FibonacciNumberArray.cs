@@ -1,4 +1,5 @@
-﻿using DataLayer.FibonacciNumbers.DataContext;
+﻿using Contracts.FibonacciNumbers;
+using DataLayer.FibonacciNumbers.DataContext;
 using DataLayer.FibonacciNumbers.Model;
 using System;
 using System.Collections.Generic;
@@ -10,42 +11,17 @@ namespace Business.FibonacciNumbers
 {
     public class FibonacciNumberArray
     {
-        private static FibonacciNumberDataContext db = new FibonacciNumberDataContext();
-        public static int GetFibonacciNumbersByIndex(int Index)
+        IFibonacciNumber _fibonacciRepo;
+
+        public FibonacciNumberArray(IFibonacciNumber FibonacciRepo)
         {
-            var IndexDbControl = db.Query.Where(x => x.Index == Index).FirstOrDefault();
+            _fibonacciRepo = FibonacciRepo;
+        }
 
-            if (IndexDbControl == null)
-            {
-                int[] Numbers = new int[Index + 1];
-                int Number = 1;
-                int OldNumber = 0;
-                int NewNumber = 1;
-                for (int i = 0; i <= Index; i++)
-                {
-                    Numbers[i] = Number;
-                    Number = OldNumber + NewNumber;
-                    OldNumber = NewNumber;
-                    NewNumber = Number;
-                }
-                int IndexInNumber = Numbers[Index];
-
-                var entity = new Query()
-                {
-                    Index = Index,
-                    ResultNumber = IndexInNumber,
-                    Date = DateTime.Now
-                };
-
-                db.Query.Add(entity);
-                db.SaveChanges();
-
-                return IndexInNumber;
-            }
-            else
-            {
-                return IndexDbControl.ResultNumber;
-            }
+        public int GetFibonacciNumbersByIndex(int Index)
+        {
+            var x = _fibonacciRepo.GetFibonacciNumbersByIndex(Index);
+            return x; 
         }
     }
 }

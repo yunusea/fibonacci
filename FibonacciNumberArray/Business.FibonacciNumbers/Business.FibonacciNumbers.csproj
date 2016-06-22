@@ -53,6 +53,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Contracts.FibonacciNumbers\Contracts.FibonacciNumbers.csproj">
+      <Project>{ADAD6324-9E8E-4AC6-9A50-FCE524024D10}</Project>
+      <Name>Contracts.FibonacciNumbers</Name>
+    </ProjectReference>
     <ProjectReference Include="..\DataLayer.FibonacciNumbers\DataLayer.FibonacciNumbers.csproj">
       <Project>{8e01a092-00df-4b49-81a6-39bcaa06a6de}</Project>
       <Name>DataLayer.FibonacciNumbers</Name>

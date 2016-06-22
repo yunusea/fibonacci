@@ -1,4 +1,5 @@
 ﻿using Business.FibonacciNumbers;
+using Contracts.FibonacciNumbers;
 using MvcApp.FibonacciNumbers.Models;
 using System;
 using System.Collections.Generic;
@@ -10,7 +11,13 @@ namespace MvcApp.FibonacciNumbers.Controllers
 {
     public class HomeController : Controller
     {
-        // GET: Home
+        private readonly IFibonacciNumber _fibonacciNumber;
+        
+        public HomeController(IFibonacciNumber FibonacciNumber)
+        {
+            _fibonacciNumber = FibonacciNumber;
+        }
+
         public ActionResult Index()
         {
             var ViewModel = new HomeViewModel()
@@ -24,7 +31,7 @@ namespace MvcApp.FibonacciNumbers.Controllers
         public ActionResult Index(HomeViewModel ViewModel)
         {
             var Index = ViewModel.IndexNumber;
-            var Result = FibonacciNumberArray.GetFibonacciNumbersByIndex(Index);
+            var Result = _fibonacciNumber.GetFibonacciNumbersByIndex(Index);
             HomeViewModel NewViewModel = new HomeViewModel()
             {
                 ResultNumber = Result,

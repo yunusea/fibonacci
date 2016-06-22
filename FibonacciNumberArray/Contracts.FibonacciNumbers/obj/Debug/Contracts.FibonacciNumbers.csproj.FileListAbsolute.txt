@@ -1,0 +1,5 @@
+E:\GIT\fibonacci\FibonacciNumberArray\Contracts.FibonacciNumbers\bin\Debug\Contracts.FibonacciNumbers.dll
+E:\GIT\fibonacci\FibonacciNumberArray\Contracts.FibonacciNumbers\bin\Debug\Contracts.FibonacciNumbers.pdb
+E:\GIT\fibonacci\FibonacciNumberArray\Contracts.FibonacciNumbers\obj\Debug\Contracts.FibonacciNumbers.csprojResolveAssemblyReference.cache
+E:\GIT\fibonacci\FibonacciNumberArray\Contracts.FibonacciNumbers\obj\Debug\Contracts.FibonacciNumbers.dll
+E:\GIT\fibonacci\FibonacciNumberArray\Contracts.FibonacciNumbers\obj\Debug\Contracts.FibonacciNumbers.pdb

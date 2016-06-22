@@ -1,0 +1,16 @@
+E:\GIT\fibonacci\FibonacciNumberArray\ConsoleApp.FibonacciNumbers\bin\Debug\ConsoleApp.FibonacciNumbers.exe.config
+E:\GIT\fibonacci\FibonacciNumberArray\ConsoleApp.FibonacciNumbers\bin\Debug\ConsoleApp.FibonacciNumbers.exe
+E:\GIT\fibonacci\FibonacciNumberArray\ConsoleApp.FibonacciNumbers\bin\Debug\ConsoleApp.FibonacciNumbers.pdb
+E:\GIT\fibonacci\FibonacciNumberArray\ConsoleApp.FibonacciNumbers\bin\Debug\Business.FibonacciNumbers.dll
+E:\GIT\fibonacci\FibonacciNumberArray\ConsoleApp.FibonacciNumbers\bin\Debug\DataLayer.FibonacciNumbers.dll
+E:\GIT\fibonacci\FibonacciNumberArray\ConsoleApp.FibonacciNumbers\bin\Debug\EntityFramework.dll
+E:\GIT\fibonacci\FibonacciNumberArray\ConsoleApp.FibonacciNumbers\bin\Debug\Business.FibonacciNumbers.pdb
+E:\GIT\fibonacci\FibonacciNumberArray\ConsoleApp.FibonacciNumbers\bin\Debug\DataLayer.FibonacciNumbers.pdb
+E:\GIT\fibonacci\FibonacciNumberArray\ConsoleApp.FibonacciNumbers\bin\Debug\EntityFramework.xml
+E:\GIT\fibonacci\FibonacciNumberArray\ConsoleApp.FibonacciNumbers\obj\Debug\ConsoleApp.FibonacciNumbers.csprojResolveAssemblyReference.cache
+E:\GIT\fibonacci\FibonacciNumberArray\ConsoleApp.FibonacciNumbers\obj\Debug\ConsoleApp.FibonacciNumbers.exe
+E:\GIT\fibonacci\FibonacciNumberArray\ConsoleApp.FibonacciNumbers\obj\Debug\ConsoleApp.FibonacciNumbers.pdb
+E:\GIT\fibonacci\FibonacciNumberArray\ConsoleApp.FibonacciNumbers\bin\Debug\Contracts.FibonacciNumbers.dll
+E:\GIT\fibonacci\FibonacciNumberArray\ConsoleApp.FibonacciNumbers\bin\Debug\Repository.FibonacciNumbers.dll
+E:\GIT\fibonacci\FibonacciNumberArray\ConsoleApp.FibonacciNumbers\bin\Debug\Contracts.FibonacciNumbers.pdb
+E:\GIT\fibonacci\FibonacciNumberArray\ConsoleApp.FibonacciNumbers\bin\Debug\Repository.FibonacciNumbers.pdb

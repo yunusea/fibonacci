@@ -54,6 +54,14 @@
       <Project>{eb177f0f-2fdd-48d2-bd5b-35a7fc9423ca}</Project>
       <Name>Business.FibonacciNumbers</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Contracts.FibonacciNumbers\Contracts.FibonacciNumbers.csproj">
+      <Project>{ADAD6324-9E8E-4AC6-9A50-FCE524024D10}</Project>
+      <Name>Contracts.FibonacciNumbers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Repository.FibonacciNumbers\Repository.FibonacciNumbers.csproj">
+      <Project>{8D6CAFD4-689A-469C-B9BF-AB01FAF4BE27}</Project>
+      <Name>Repository.FibonacciNumbers</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
