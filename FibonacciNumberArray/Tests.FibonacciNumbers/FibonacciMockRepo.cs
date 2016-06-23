@@ -9,9 +9,16 @@ namespace Tests.FibonacciNumbers
 {
     public class FibonacciMockRepo : IFibonacciNumber
     {
+        private int _result;
+
+        public FibonacciMockRepo(int Result)
+        {
+            _result = Result;
+        }
+
         public int GetFibonacciNumbersByIndex(int Index)
         {
-            return 2;
+            return _result;
         }
     }
 }

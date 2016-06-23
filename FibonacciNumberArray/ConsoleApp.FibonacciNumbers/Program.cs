@@ -11,7 +11,7 @@ namespace ConsoleApp.FibonacciNumbers
 {
     public class Program
     {
-        private readonly IFibonacciNumber _fibonacciNumber;
+        private static IFibonacciNumber _fibonacciNumber;
 
         public Program(IFibonacciNumber FibonacciNumber)
         {
